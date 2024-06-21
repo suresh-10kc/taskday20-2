@@ -1,0 +1,29 @@
+.heading{
+    color:blue;
+}
+.para{
+    color: cornflowerblue;
+    background-color: black;
+}
+#sty{
+    background-color: burlywood;
+    color: blue;
+}
+.image1{
+   height: 50vh;
+   width: 80vw;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
+.button{
+    background-color: brown;
+    color: aliceblue;
+}
+.button1{
+    background-color: darkcyan;
+}
+.button2{
+    color: black;
+    background-color:beige;
+}
+    
